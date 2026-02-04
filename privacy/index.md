@@ -70,5 +70,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ## 9. Contact
 If you have questions about this Privacy Policy, contact us at:
 
-**Email:** sentie.app@gmail.com
+**Email:** sentie.studio@outlook.com
 
