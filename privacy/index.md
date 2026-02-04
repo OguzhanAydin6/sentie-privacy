@@ -29,6 +29,9 @@ When you choose to save an analysis:
 - This data is saved **locally on your device**
 - You may delete this data at any time from within the app
 
+## User-Generated Text & Reflections
+-Some features allow you to enter personal text or reflections (for example, emotional or symbolic prompts). Any text you provide is stored only on your device and is not transmitted to our servers. You can delete this information at any time within the app.
+
 ---
 
 ## 4. Sharing
