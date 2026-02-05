@@ -40,6 +40,7 @@ As part of optional account features and the in-app friend system, Sentie proces
 Light messages within the application are sent using predefined message options. No free-text message content is stored. However, in order for the system to function properly, interaction records such as which predefined message was sent, the sender and recipient identifiers, the time of delivery, and delivery status are stored on the server.
 
 These data are used for managing friend requests, delivering light messages, enforcing daily usage limits, and operating the point and reward systems. Users may request deletion of their account data and associated social interaction records at any time through the in-app “Delete Account” option. Once the account deletion process is completed, the relevant data stored on the server are removed from the system.
+
 ---
 
 ## 4. Sharing
