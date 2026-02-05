@@ -35,11 +35,11 @@ When you choose to save an analysis:
 ---
 
 ## Account & Social Features Data
-To enable account creation, friend connections, and light message interactions, Sentie may process limited account-related data. This may include a display name, date of birth, selected core energies, the assigned Sentie ID, friend connections, and interaction records related to light messages.
+To enable optional account features and in-app friend connections, Sentie may process limited account-related data. This includes a user display name, date of birth, selected core energies, the assigned Sentie ID, and friend connection records.
 
-This data is used solely to operate social features, deliver messages, enforce usage limits, and manage reward systems. **Photos, facial data, and user-generated free text are not stored on our servers as part of these features.**
+Light messages within Sentie are based on predefined message options. Only interaction metadata (such as message selection and delivery status) is processed to operate these features. **No free-text messages, photos, facial data, or audio content are stored on our servers.**
 
-You may request deletion of your account and associated social data at any time through the in-app “Delete Account” option. Once the deletion process is completed, the relevant data is permanently removed from our systems.
+This data is used solely to support in-app connections, enforce usage limits, and operate reward systems. You may request deletion of your account and associated data at any time through the in-app “Delete Account” option. Once completed, the relevant data is permanently removed from our systems.
 
 ---
 
