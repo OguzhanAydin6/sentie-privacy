@@ -34,13 +34,12 @@ When you choose to save an analysis:
 
 ---
 
-## Account & Social Features Data
-To enable optional account features and in-app friend connections, Sentie may process limited account-related data. This includes a user display name, date of birth, selected core energies, the assigned Sentie ID, and friend connection records.
+## Account and Limited Social Interaction Data
+As part of optional account features and the in-app friend system, Sentie processes a limited set of account-related data on the server side. This data may include a user-defined display name, date of birth, selected core energies, the system-assigned Sentie Identification Number (ID), friend connection records, and last activity timestamps.
 
-Light messages within Sentie are based on predefined message options. Only interaction metadata (such as message selection and delivery status) is processed to operate these features. **No free-text messages, photos, facial data, or audio content are stored on our servers.**
+Light messages within the application are sent using predefined message options. No free-text message content is stored. However, in order for the system to function properly, interaction records such as which predefined message was sent, the sender and recipient identifiers, the time of delivery, and delivery status are stored on the server.
 
-This data is used solely to support in-app connections, enforce usage limits, and operate reward systems. You may request deletion of your account and associated data at any time through the in-app “Delete Account” option. Once completed, the relevant data is permanently removed from our systems.
-
+These data are used for managing friend requests, delivering light messages, enforcing daily usage limits, and operating the point and reward systems. Users may request deletion of their account data and associated social interaction records at any time through the in-app “Delete Account” option. Once the account deletion process is completed, the relevant data stored on the server are removed from the system.
 ---
 
 ## 4. Sharing
