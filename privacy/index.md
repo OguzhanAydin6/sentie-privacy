@@ -32,6 +32,14 @@ When you choose to save an analysis:
 ## User-Generated Text (Not Stored)
 -Some features allow you to enter personal text (for example, reflective prompts). This text is used only to generate on-screen guidance during your session. It is **not saved**, **not retained**, and **not transmitted to our servers**.
 
+---
+
+## Account & Social Features Data
+To enable account creation, friend connections, and light message interactions, Sentie may process limited account-related data. This may include a display name, date of birth, selected core energies, the assigned Sentie ID, friend connections, and interaction records related to light messages.
+
+This data is used solely to operate social features, deliver messages, enforce usage limits, and manage reward systems. **Photos, facial data, and user-generated free text are not stored on our servers as part of these features.**
+
+You may request deletion of your account and associated social data at any time through the in-app “Delete Account” option. Once the deletion process is completed, the relevant data is permanently removed from our systems.
 
 ---
 
