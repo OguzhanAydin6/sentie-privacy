@@ -65,8 +65,6 @@ We do not sell personal data.
 
 Users can control advertising and tracking permissions through their device settings.
 
-Users can control advertising and tracking permissions through their device settings.
-
 ---
 
 ## 6. Children’s Privacy
