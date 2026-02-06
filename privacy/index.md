@@ -53,17 +53,20 @@ Sentie may display optional advertisements through third-party advertising provi
 
 Advertisements are shown only when the user chooses to view them.
 
-These services may automatically collect limited information, including:
+These services may automatically collect limited information, which may include:
 - Device type and operating system
 - IP address (for general location estimation)
 - Advertising identifiers (such as IDFA on iOS or Advertising ID on Android)
-- Basic ad interaction data
+- Basic interaction data related to ad performance
 
 Sentie does not access, store, or use camera images, aura analysis results, personal reflective text, or account data for advertising purposes.
 
 We do not sell personal data.
 
 Users can control advertising and tracking permissions through their device settings.
+
+Users can control advertising and tracking permissions through their device settings.
+
 ---
 
 ## 6. Children’s Privacy
