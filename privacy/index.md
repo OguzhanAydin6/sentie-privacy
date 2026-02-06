@@ -30,7 +30,7 @@ When you choose to save an analysis:
 - You may delete this data at any time from within the app
 
 ## User-Generated Text (Not Stored)
--Some features allow you to enter personal text (for example, reflective prompts). This text is used only to generate on-screen guidance during your session. It is **not saved**, **not retained**, and **not transmitted to our servers**.
+- Some features allow you to enter personal text (for example, reflective prompts). This text is used only to generate on-screen guidance during your session. It is **not saved**, **not retained**, and **not transmitted to our servers**.
 
 ## Account and Limited Social Interaction Data
 As part of optional account features and the in-app friend system, Sentie processes a limited set of account-related data on the server side. This data may include a user-defined display name, date of birth, selected core energies, the system-assigned Sentie Identification Number (ID), friend connection records, and last activity timestamps.
@@ -48,7 +48,7 @@ If you choose to share a result:
 
 ---
 
-## 5. Advertising & Analytics
+## 5. Advertising
 Sentie may display optional advertisements through third-party advertising providers such as Google AdMob.
 
 Advertisements are shown only when the user chooses to view them.
