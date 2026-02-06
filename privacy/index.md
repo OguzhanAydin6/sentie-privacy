@@ -49,14 +49,21 @@ If you choose to share a result:
 ---
 
 ## 5. Advertising & Analytics
-Sentie may use third-party services such as Google AdMob to display ads.
-These services may collect limited, non-personal data such as:
-- Device type
-- General region
-- Interaction data for ad performance
+Sentie may display optional advertisements through third-party advertising providers such as Google AdMob.
 
-Sentie does **not** use photos, camera data, or aura analysis results for advertising or tracking purposes.
+Advertisements are shown only when the user chooses to view them.
 
+These services may automatically collect limited information, including:
+- Device type and operating system
+- IP address (for general location estimation)
+- Advertising identifiers (such as IDFA on iOS or Advertising ID on Android)
+- Basic ad interaction data
+
+Sentie does not access, store, or use camera images, aura analysis results, personal reflective text, or account data for advertising purposes.
+
+We do not sell personal data.
+
+Users can control advertising and tracking permissions through their device settings.
 ---
 
 ## 6. Children’s Privacy
