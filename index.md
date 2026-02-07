@@ -80,12 +80,28 @@ You have the right to:
 
 ---
 
-## 8. Changes to This Policy
+## 8. Account Deletion
+
+Users can delete their account at any time directly from within the app:
+
+Settings → Delete Account
+
+When an account is deleted:
+- All associated personal data is permanently removed from our servers.
+- The Sentie ID is deleted.
+- Social interaction records linked to the account are erased.
+- This action cannot be undone.
+
+No personal data is retained after account deletion.
+
+---
+
+## 9. Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be posted on this page.
 
 ---
 
-## 9. Contact
+## 10. Contact
 If you have questions about this Privacy Policy, contact us at:
 
 **Email:** sentie.studio@outlook.com
