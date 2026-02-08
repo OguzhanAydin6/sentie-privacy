@@ -68,7 +68,7 @@ Users can control advertising and tracking permissions through their device sett
 ---
 
 ## 6. Children’s Privacy
-Sentie is not intended for users under the age of 13. We do not knowingly collect personal data from children.
+Sentie is not intended for users under the age of 16. We do not knowingly collect personal data from children.
 
 ---
 
