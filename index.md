@@ -1,16 +1,16 @@
-# SENTIE — Privacy Policy
+# AuraMi — Privacy Policy
 
 **Last Updated:** February 2026
 
 ---
 
 ## 1. Introduction
-Welcome to **Sentie**. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use the Sentie mobile application.
+Welcome to **AuraMi**. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use the Sentie mobile application.
 
 ---
 
 ## 2. Photos & Camera Use
-Sentie uses your device’s camera and photo library only to enable the following features:
+AuraMi uses your device’s camera and photo library only to enable the following features:
 - **Aura Analysis (Auranı Keşfet)**
 - **Soul Connection**
 
@@ -44,7 +44,7 @@ These data are used for managing friend requests, delivering light messages, enf
 ## 4. Sharing
 If you choose to share a result:
 - Only the **text or content you explicitly choose** is shared
-- Sentie does not automatically share any personal data
+- AuraMi does not automatically share any personal data
 
 ---
 
@@ -59,7 +59,7 @@ These services may automatically collect limited information, which may include:
 - Advertising identifiers (such as IDFA on iOS or Advertising ID on Android)
 - Basic interaction data related to ad performance
 
-Sentie does not access, store, or use camera images, aura analysis results, personal reflective text, or account data for advertising purposes.
+AuraMi does not access, store, or use camera images, aura analysis results, personal reflective text, or account data for advertising purposes.
 
 We do not sell personal data.
 
@@ -68,7 +68,7 @@ Users can control advertising and tracking permissions through their device sett
 ---
 
 ## 6. Children’s Privacy
-Sentie is not intended for users under the age of 16. We do not knowingly collect personal data from children.
+AuraMi is not intended for users under the age of 16. We do not knowingly collect personal data from children.
 
 ---
 
