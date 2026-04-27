@@ -88,7 +88,7 @@ Settings → Delete Account
 
 When an account is deleted:
 - All associated personal data is permanently removed from our servers.
-- The Sentie ID is deleted.
+- The AuraMi ID is deleted.
 - Social interaction records linked to the account are erased.
 - This action cannot be undone.
 
