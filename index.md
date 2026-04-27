@@ -5,7 +5,7 @@
 ---
 
 ## 1. Introduction
-Welcome to **AuraMi**. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use the Sentie mobile application.
+Welcome to **AuraMi**. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use the AuraMi mobile application.
 
 ---
 
@@ -33,7 +33,7 @@ When you choose to save an analysis:
 - Some features allow you to enter personal text (for example, reflective prompts). This text is used only to generate on-screen guidance during your session. It is **not saved**, **not retained**, and **not transmitted to our servers**.
 
 ## Account and Limited Social Interaction Data
-As part of optional account features and the in-app friend system, Sentie processes a limited set of account-related data on the server side. This data may include a user-defined display name, date of birth, selected core energies, the system-assigned Sentie Identification Number (ID), friend connection records, and last activity timestamps.
+As part of optional account features and the in-app friend system, AuraMi processes a limited set of account-related data on the server side. This data may include a user-defined display name, date of birth, selected core energies, the system-assigned AuraMi Identification Number (ID), friend connection records, and last activity timestamps.
 
 Light messages within the application are sent using predefined message options. No free-text message content is stored. However, in order for the system to function properly, interaction records such as which predefined message was sent, the sender and recipient identifiers, the time of delivery, and delivery status are stored on the server.
 
@@ -49,7 +49,7 @@ If you choose to share a result:
 ---
 
 ## 5. Advertising
-Sentie may display optional advertisements through third-party advertising providers such as Google AdMob.
+AuraMi may display optional advertisements through third-party advertising providers such as Google AdMob.
 
 Advertisements are shown only when the user chooses to view them.
 
@@ -68,7 +68,7 @@ Users can control advertising and tracking permissions through their device sett
 ---
 
 ## 6. Children’s Privacy
-AuraMi is not intended for users under the age of 16. We do not knowingly collect personal data from children.
+AuraMi is not specifically directed to children. We do not knowingly collect personal data from children.
 
 ---
 
